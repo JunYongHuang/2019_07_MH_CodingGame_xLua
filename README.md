@@ -12,6 +12,7 @@ There are few things to do:
 - Open "xLuaTestSence" and press GUI button "Reload Lua Text" to run all case
 
 Remarks:
+- Remember set up hotfix setting before run code
 - "xLuaTest.cs" already have "TODO" region, other code should not be changed
 - Examples of xLua are very useful to learn how to us lua
 - Do not wirte Lua script as string in C# script directly
