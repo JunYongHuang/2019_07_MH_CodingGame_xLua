@@ -5,7 +5,7 @@ We would use xLua this time which is a open source plugin from Tencent
 
 There are few things to do:
 - Download xLua from https://github.com/Tencent/xLua and setup on Unity Project
-- Learn about xLua and how to use Lua call C# and vice versa through xLua documentsf
+- Learn about xLua and how to use Lua call C# and vice versa through xLua documents
 - Download "Question" folder and put it under "Assets"
 - Finish missing code of "xLuaTest.cs"
 - Finish 2 lua script "TestLuaHotFix.lua.txt" && "TestImplement.lua.txt"
