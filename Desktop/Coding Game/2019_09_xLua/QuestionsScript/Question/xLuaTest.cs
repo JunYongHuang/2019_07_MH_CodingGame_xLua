@@ -66,6 +66,8 @@ public class xLuaTest : MonoBehaviour {
 
         //TODO: use EncryptionHelper to load encrypted lua script
         ///use loader to decrypt script
+        
+        //Decrypt nonce = 102 //2019 - 09 - 30 update
         #region YourScript
         //TODO: loader here 
         
